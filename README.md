@@ -15,4 +15,4 @@ npm run dev
 
 - Mac [Download](https://raw.githubusercontent.com/sutd-statnlp/project-statnlp-desktop-file-converter/master/build/FileConverter-0.0.0.dmg)
 - Windows: [Download](https://raw.githubusercontent.com/sutd-statnlp/project-statnlp-desktop-file-converter/master/build/FileConverter-0.0.0.exe)
-- Linux: [Download](https://raw.githubusercontent.com/sutd-statnlp/project-statnlp-desktop-file-converter/master/build/FileConverter-0.0.0.AppImage)
+- Linux: [Download](https://raw.githubusercontent.com/sutd-statnlp/project-statnlp-desktop-file-converter/master/build/FileConverter-0.0.0-x86_64.AppImage)
