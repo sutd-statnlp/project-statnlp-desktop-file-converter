@@ -3,9 +3,6 @@ dist/electron/*
 dist/web/*
 build/*
 !build/icons
-!build/*.dmg
-!build/*.exe
-!build/*.AppImage
 node_modules/
 npm-debug.log
 npm-debug.log.*
